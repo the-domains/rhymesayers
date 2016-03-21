@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[rhymesayers]]></title>
+        <description><![CDATA[rhymesayers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 18:26:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aesop Rock Returns With New Album The Impossible Kid, Shares Trippy "Rings" Video]]></title>
+            <description><![CDATA[<article><h1>Aesop Rock Returns With New Album The Impossible Kid, Shares Trippy "Rings" Video</h1><p>His first solo album since 2012's Skelethon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38781f1f7afeadfdececce1c335d288d1db34f42.png"></article>]]></description>
+            <link>http://pitchfork.com/news/63600-aesop-rock-returns-with-new-album-the-impossible-kid-shares-trippy-rings-video/</link>
+            <guid isPermaLink="false">0f7649d7-481b-41fb-b3d8-67d8de2f1a35</guid>
+            <pubDate>Mon, 21 Mar 2016 18:26:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
